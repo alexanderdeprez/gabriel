@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gabriel Descending",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
       }
     ],
     "uniqCompNum": 56,
-    "versionPublish": "4.8.7",
+    "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
   "pages": {
